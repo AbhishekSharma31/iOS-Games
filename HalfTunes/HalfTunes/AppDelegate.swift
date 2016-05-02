@@ -3,7 +3,7 @@
 //  HalfTunes
 //
  //  Created by Abhishek Sharma on 5/1/16.
- //  Copyright © 2016 Ken Toh. All rights reserved.
+ // 
  //
 
 
